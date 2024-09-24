@@ -1,1 +1,1 @@
-# Shortcode-Plugin
+Wordpress Shortcode plugin
